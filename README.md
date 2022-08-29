@@ -39,4 +39,8 @@ Data Dictionary
 20. Avg. 60 Day: Average view for 60 days
 21. Comments Avg: Average comments.
 22. Youtube Link: Link of the channel
+
+<img width="1131" alt="image" src="https://user-images.githubusercontent.com/93213738/187185585-25a7035d-edc5-49ba-95d9-da9c62aa2f5f.png">
+
+22. Youtube Link: Link of the channel
 The CSV file used for this analysis: https://github.com/Abhiram025002/BDDA-1/blob/main/top_200_youtubers.csv
