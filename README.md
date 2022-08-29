@@ -16,6 +16,9 @@ The aim of this investigation is to perform:
 6. Hyperparameter tuning both using Grid Search and Randomized Search
 7. Project documentation, comments and structuring
 
+![image](https://user-images.githubusercontent.com/93213738/187186037-74153cf7-83a0-4aed-8fcc-6ca1edc3c9c8.png)
+
+
 Data Dictionary
 
 1. Country: Name of the country 
