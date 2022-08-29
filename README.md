@@ -49,3 +49,19 @@ Data Dictionary
 
 22. Youtube Link: Link of the channel
 The CSV file used for this analysis: https://github.com/Abhiram025002/BDDA-1/blob/main/top_200_youtubers.csv
+
+
+
+Olympic Medal data
+Since 1896, the Olympics have handed out more than 35,000 medals. The winner of the first two Olympiads received an olive wreath in addition to a silver medal, and the IOC retroactively awarded medals to athletes depending on their rankings in gold, silver, and bronze. Since the first Olympics, every Olympic nation that has taken home a medal has a row in this dataset.
+![image](https://user-images.githubusercontent.com/93213738/187193626-53e69fc2-ee97-462f-9c70-3154445530d5.png)
+
+
+
+This dataset lists the Olympic athletes who have won the most gold medals, the fewest gold medals, and makes a comparison between the summer and winter games.
+<img width="536" alt="image" src="https://user-images.githubusercontent.com/93213738/187193887-5db381fd-ce9d-4a35-a6c8-d861d0f3a045.png">
+
+
+Acknowledgements
+
+The IOC Research and Reference Service contributed the data, which The Guardian's Datablog then published.
